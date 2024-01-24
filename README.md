@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **WHOIS Lookup Burp Extension** is a Burp Suite extension that allows you to perform WHOIS lookups on domains directly from Burp Suite. It provides a convenient way to gather information about a domain quickly during your web security assessments.
+The **WHOIS Lookup Burp Extension** is a Burp Suite extension that allows you to perform WHOIS lookups on domains directly from Burp Suite using whosifreak API. It provides a convenient way to gather information about a domain quickly during your web security assessments. 
 
 ## Features
 
