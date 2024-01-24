@@ -37,6 +37,10 @@ The **WHOIS Lookup Burp Extension** is a Burp Suite extension that allows you to
 2. Select "Send to WHOIS Lookup" from the context menu.
 3. The domain will be automatically populated in the "Domain" field, and you can click the "Lookup" button to retrieve WHOIS information.
 
+## Examples
+![example](https://github.com/y0nd1e/burpwhoistab/assets/157593415/93fa125d-11ce-4379-91f8-9f0a05e33805)
+
+
 ## Configuration
 
 You need to set your API key in the code. Locate the `API_KEY` variable within the `BurpExtender` class and replace `"APIKEY"` with your actual API key.
@@ -44,4 +48,5 @@ You need to set your API key in the code. Locate the `API_KEY` variable within t
 ```python
 # Hardcode the API key here
 API_KEY = "YOUR_API_KEY"
+
 
